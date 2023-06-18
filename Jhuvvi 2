@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Information</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Information</h1>
+  </header>
+  
+  <main>
+    <section>
+      <h2>Name</h2>
+      <p>Your Name</p>
+    </section>
+    
+    <section>
+      <h2>Email</h2>
+      <p>Your Email Address</p>
+    </section>
+    
+    <section>
+      <h2>Phone</h2>
+      <p>Your Phone Number</p>
+    </section>
+  </main>
+</body>
+</html>
